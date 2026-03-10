@@ -1,5 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 Disallow: /cgi-bin/
 
-Sitemap: https://websiteanda.com/sitemap.xml
+Sitemap: https://paketcampingbatu.web.id/sitemap.xml
