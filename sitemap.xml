@@ -342,4 +342,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://paketcampingbatu.web.id/jenis-wisata-offroad-populer-di-indonesia.html</loc>
+    <lastmod>2026-07-28T09:31:58+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://paketcampingbatu.web.id/persiapan-dan-perlengkapan-sebelum-wisata-offroad.html</loc>
+    <lastmod>2026-07-28T09:47:40+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
