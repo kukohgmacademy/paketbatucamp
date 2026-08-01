@@ -399,12 +399,7 @@
         <priority>0.8</priority>
     </url>
 
-    <url>
-        <loc>https://paketcampingbatu.web.id/rute-dan-lokasi-offroad-terbaik-di-malang.html</loc>
-        <lastmod>2026-07-30</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    
 
     <url>
         <loc>https://paketcampingbatu.web.id/mobil-offroad-terbaik-untuk-wisata-malang.html</loc>
@@ -413,12 +408,7 @@
         <priority>0.8</priority>
     </url>
 
-    <url>
-        <loc>https://paketcampingbatu.web.id/biaya-dan-tips-memilih-paket-offroad-malang.html</loc>
-        <lastmod>2026-07-30</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    
 
     <url>
         <loc>https://paketcampingbatu.web.id/offroad-4x4-panduan-lengkap-wisata-dan-persiapannya.html</loc>
@@ -461,6 +451,31 @@
   <url>
     <loc>https://paketcampingbatu.web.id/offroad-musim-kemarau-malang-waktu-terbaik-2026.html</loc>
     <lastmod>2026-07-31T10:07:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://paketcampingbatu.web.id/biaya-dan-tips-memilih-paket-offroad-malang.html</loc>
+    <lastmod>2026-08-01T14:27:04+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://paketcampingbatu.web.id/offroad-malang-panduan-lengkap-rute-persiapan-dan-tips.html</loc>
+    <lastmod>2026-08-01T14:50:09+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://paketcampingbatu.web.id/rute-dan-lokasi-offroad-terbaik-di-malang.html</loc>
+    <lastmod>2026-08-01T15:02:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://paketcampingbatu.web.id/persiapan-dan-perlengkapan-offroad-di-malang.html</loc>
+    <lastmod>2026-08-01T15:09:20+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://paketcampingbatu.web.id/tips-memilih-operator-dan-paket-offroad-malang.html</loc>
+    <lastmod>2026-08-01T15:12:25+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
