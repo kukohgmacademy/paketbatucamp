@@ -490,4 +490,18 @@
     <lastmod>2026-08-03T07:15:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
+
+    <url>
+        <loc>https://paketcampingbatu.web.id/fitur-dan-spesifikasi-mobil-offroad-yang-wajib-diperhatikan.html</loc>
+        <lastmod>2026-08-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://paketcampingbatu.web.id/tips-memilih-dan-modifikasi-mobil-offroad-untuk-pemula.html</loc>
+        <lastmod>2026-08-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
